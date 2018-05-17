@@ -3,6 +3,7 @@ title: "Exploratory Data Analysis of major storms and weather events on Public H
 author: "Sreenivasulu Parimi"
 date: "May 13, 2018"
 output: html_document
+keep_md: true
 ---
 
 ```{r setup, include=FALSE}
