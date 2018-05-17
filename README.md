@@ -1,7 +1,6 @@
 # Reproducible-Research-Course-Project-2
 
-Link on <a href="http://rpubs.com/vanilla_nadal/coursera_repData_2" target="_blank">RPubs</a>  
-My [Coursera-Reproducible-Research](https://github.com/kpacharya/Coursera-Reproducible-Research) Repo  
+Link on <a href="http://rpubs.com/parimi/389978" target="_blank">RPubs</a>  
 
 ### Introduction
 
